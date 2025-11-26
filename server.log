@@ -1,0 +1,8 @@
+{"level":30,"time":1764150372420,"pid":20772,"hostname":"WIN-8DSRCLAOG3E","msg":"config>{\"host\":\"192.168.31.193\",\"user\":\"root\",\"password\":\"******\",\"database\":\"cg_manage\",\"port\":3306}"}
+{"level":30,"time":1764150372420,"pid":20772,"hostname":"WIN-8DSRCLAOG3E","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1764150634593,"pid":14944,"hostname":"WIN-8DSRCLAOG3E","msg":"config>{\"host\":\"192.168.31.193\",\"user\":\"root\",\"password\":\"******\",\"database\":\"cg_manage\",\"port\":3306}"}
+{"level":30,"time":1764150634593,"pid":14944,"hostname":"WIN-8DSRCLAOG3E","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1764150648353,"pid":4144,"hostname":"WIN-8DSRCLAOG3E","msg":"config>{\"host\":\"192.168.31.193\",\"user\":\"root\",\"password\":\"******\",\"database\":\"cg_manage\",\"port\":3306}"}
+{"level":30,"time":1764150648459,"pid":13620,"hostname":"WIN-8DSRCLAOG3E","msg":"config>{\"host\":\"192.168.31.193\",\"user\":\"root\",\"password\":\"******\",\"database\":\"cg_manage\",\"port\":3306}"}
+{"level":30,"time":1764150648459,"pid":13620,"hostname":"WIN-8DSRCLAOG3E","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1764150648353,"pid":4144,"hostname":"WIN-8DSRCLAOG3E","msg":"MySQL MCP server running on stdio"}
